@@ -1,0 +1,14 @@
+from random import seed
+
+
+#i need to (write any verb here)
+#(verb1) with my (noun1)
+#(noun1) is very (ajective1)
+
+verb1 = input ("write any verb here")
+noun1 = ("write noun1")
+ajective = (write any ajective)
+
+print("i need to" + verb1)
+print("with my" + noun1)
+print(""

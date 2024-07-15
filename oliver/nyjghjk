@@ -1,0 +1,3 @@
+tepeter = int(inputinput)
+
+if tempature > 30:

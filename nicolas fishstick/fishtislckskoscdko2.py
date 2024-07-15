@@ -1,0 +1,1 @@
+fishtick = 2
